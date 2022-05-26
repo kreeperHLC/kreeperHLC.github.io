@@ -53,19 +53,6 @@ nav li{
 
 .content article{
     float: left;
-    width: 70%;
+    width: 100%;
     
-}
-.content ul{
-    float: right;
-    width: 250px;
-    background: #338989;
-    padding: 20px;
-    border-radius: 5pxx;
-    list-style: none;
-}
-
-.content ul li{
-    color: white;
-    margin-bottom: 5px;
 }
