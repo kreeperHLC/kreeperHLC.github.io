@@ -53,7 +53,7 @@ nav li{
 
 .content article{
     float: left;
-    width: 600px;
+    width: 70%;
     
 }
 .content ul{
@@ -68,10 +68,4 @@ nav li{
 .content ul li{
     color: white;
     margin-bottom: 5px;
-}
-
-@media screen and (max-width: 600px) {
-    .content article {
-        width: 300px;
-    }
 }
